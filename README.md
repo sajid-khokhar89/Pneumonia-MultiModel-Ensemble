@@ -113,28 +113,28 @@ Generated outputs include:
 
 ## Classification Report of All models
 
-## Classification Performance Of ViT Model
+# Classification Performance Of ViT Model
 
 | Class      | Precision | Recall | F1-Score | Support |
 |------------|------------|--------|----------|---------|
 | Normal     | 0.86       | 0.83   | 0.84     | 234     |
 | Pneumonia  | 0.90       | 0.92   | 0.91     | 390     |
 
-## Classification Performance Of ResNet50
+# Classification Performance Of ResNet50
 
 | Class      | Precision | Recall | F1-Score | Support |
 |------------|------------|--------|----------|---------|
 | Normal     | 0.94       | 0.91   | 0.92     | 276     |
 | Pneumonia  | 0.90       | 0.94   | 0.92     | 262     |
 
-## Ensemble Model Performance (CXR + Ultrasound)
+# Ensemble Model Performance (CXR + Ultrasound)
 
 | Class      | Precision | Recall | F1-Score | Support |
 |------------|------------|--------|----------|---------|
 | Normal     | 0.91       | 0.98   | 0.94     | 234     |
 | Pneumonia  | 0.99       | 0.94   | 0.96     | 390     |
 
-### Overall Ensemble Performance
+# Overall Ensemble Performance
 
 | Metric            | Score |
 |-------------------|-------|
@@ -158,4 +158,4 @@ Author
 
 Sajid Hussain
 AI Researcher | Computer Vision & Medical Imaging
-Deep Learning • Transformers • Medical AI • Explainable AI
+Deep Learning • Transformers • Medical AI • Explainable AI • UAV Systems
