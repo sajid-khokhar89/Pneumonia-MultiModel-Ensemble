@@ -103,11 +103,11 @@ Generated outputs include:
 - Confusion matrix heatmaps
 
 ---
-<img width="500" height="600" alt="confusion_matrix_vit" src="https://github.com/user-attachments/assets/bfad9203-4f36-4a14-ad33-42d883f4648b" />
+<img width="500" height="300" alt="confusion_matrix_vit" src="https://github.com/user-attachments/assets/bfad9203-4f36-4a14-ad33-42d883f4648b" />
 
-<img width="500" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/0cac2c32-e0b2-4ec0-b4f7-bcc27f969026" />
+<img width="500" height="300" alt="confusion_matrix" src="https://github.com/user-attachments/assets/0cac2c32-e0b2-4ec0-b4f7-bcc27f969026" />
 
-<img width="1542" height="1407" alt="confusion_matrix_ensemble" src="https://github.com/user-attachments/assets/be318646-091d-43e3-b917-2babd525d293" />
+<img width="500" height="300" alt="confusion_matrix_ensemble" src="https://github.com/user-attachments/assets/be318646-091d-43e3-b917-2babd525d293" />
 
 
 
