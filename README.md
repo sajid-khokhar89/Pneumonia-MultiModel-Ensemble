@@ -1,8 +1,6 @@
 # Pneumonia-MultiModel-Ensemble
 Deep learning framework for automated pneumonia detection from chest X-ray images using transfer learning, data augmentation, and ensemble-based medical image classification. Built with PyTorch using ResNet50, evaluation metrics, ROC analysis, confusion matrices, and visualization for reliable AI-assisted diagnosis.
 
-# Pneumonia-MultiModel-Ensemble
-
 A deep learning-based medical imaging project for automated pneumonia detection from chest X-ray images using transfer learning and ensemble learning techniques.
 
 ## Overview
