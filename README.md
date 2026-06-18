@@ -31,9 +31,8 @@ The project includes:
 
 The notebook experiments use publicly available medical imaging datasets including:
 
-- Pediatric Chest X-ray Pneumonia Dataset
+- Lus Ultrasound Dataset
 - COVID-19 Radiography Dataset
-- Chest X-ray Pneumonia Dataset
 
 Datasets are loaded from Kaggle.
 
