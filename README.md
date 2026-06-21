@@ -150,9 +150,3 @@ Pneumonia-MultiModel-Ensemble/
 ├── plots/
 ├── README.md
 └── requirements.txt
-
-Author
-
-Sajid Hussain
-AI Researcher | Computer Vision & Medical Imaging
-Deep Learning • Transformers • Medical AI • Explainable AI • UAV Systems
